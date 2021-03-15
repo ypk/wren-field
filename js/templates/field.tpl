@@ -1,9 +1,11 @@
-<table class="table table-bordered">
+<table id="animalSpawned" class="table table-bordered">
     <thead>
         <tr>
             <th>#</th>
             <th>Name</th>
             <th>Sex</th>
+            <th>Parents</th>
+            <th>Type</th>
         </tr>
     </thead>
     <tbody>
